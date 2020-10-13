@@ -1,2 +1,2 @@
 # Cache-Sim
-Cache Simulator
+Cache Simulator. Simulatues a Cache, Computer Architecture Project
